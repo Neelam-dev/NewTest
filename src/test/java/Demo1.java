@@ -6,7 +6,7 @@ public class Demo1 {
 	@Test(priority=0)
 	public void abc()
 	{
-		System.out.println("Test1");
+		System.out.println("Test11111");
 	}
 	
 	@Test
